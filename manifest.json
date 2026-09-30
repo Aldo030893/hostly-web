@@ -1,6 +1,6 @@
 {
-  "name": "Hostly - Administración de Rentas Cortas",
-  "short_name": "Hostly",
+  "name": "Stone Whale - Administración de Rentas Cortas",
+  "short_name": "Stone Whale",
   "description": "Administra propiedades, reservaciones, finanzas, mantenimiento y propietarios desde una sola plataforma.",
   "start_url": "/hostly-web/",
   "scope": "/hostly-web/",
@@ -16,13 +16,13 @@
   ],
   "icons": [
     {
-      "src": "/hostly-web/hostly-icon-192.png",
+      "src": "/hostly-web/stone-whale-icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/hostly-web/hostly-icon-512.png",
+      "src": "/hostly-web/stone-whale-icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"

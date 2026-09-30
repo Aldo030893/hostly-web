@@ -1,10 +1,5 @@
-const CACHE_NAME = "hostly-web-v2";
-const APP_SHELL = [
-  "/hostly-web/",
-  "/hostly-web/manifest.json",
-  "/hostly-web/hostly-icon-192.png",
-  "/hostly-web/hostly-icon-512.png",
-];
+const CACHE_NAME = "stone-whale-web-v1";
+const APP_SHELL = ["/hostly-web/", "/hostly-web/manifest.json", "/hostly-web/stone-whale-icon-192.png", "/hostly-web/stone-whale-icon-512.png"];
 
 self.addEventListener("install", (event) => {
   event.waitUntil(caches.open(CACHE_NAME).then((cache) => cache.addAll(APP_SHELL)));
