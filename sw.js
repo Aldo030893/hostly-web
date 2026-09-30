@@ -1,4 +1,4 @@
-const CACHE_NAME = "hostly-web-v1";
+const CACHE_NAME = "hostly-web-v2";
 const APP_SHELL = [
   "/hostly-web/",
   "/hostly-web/manifest.json",
