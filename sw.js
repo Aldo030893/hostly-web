@@ -1,4 +1,4 @@
-const CACHE_NAME = "stone-whale-web-v5";
+const CACHE_NAME = "stone-whale-web-v6";
 const APP_SHELL = ["/hostly-web/", "/hostly-web/manifest.json", "/hostly-web/stone-whale-icon-192.png", "/hostly-web/stone-whale-icon-512.png"];
 
 self.addEventListener("install", (event) => {
